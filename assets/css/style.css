@@ -7,3 +7,24 @@ body{
 	background-size: 2000px;
 	color: white;
 }
+
+#clic {
+
+	margin-top: 50px;
+	margin-left: 150px;
+	width : 350px;
+	height: 350px;
+	background-color: transparent;
+	border: none;
+	vertical-align: middle;
+}
+ #affichage{
+ 	font-size: 50px;
+ 	text-shadow: 3px 2px 3px black, 0 0 1em blue;
+ 	margin-left: 320px;
+ 	margin-top: 50px;
+
+ }
+ #boosts {
+
+ }
