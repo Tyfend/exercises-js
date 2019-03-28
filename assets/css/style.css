@@ -8,6 +8,7 @@ body{
 	color: white;
 }
 
+
 #clic {
 
 	margin-top: 50px;
@@ -26,5 +27,8 @@ body{
 
  }
  #boosts {
-
+ 	display.flex;
+ 	align-items: center;
+ 	justify-content: flex-end;
+ 	flex-direction:  column-reverse;
  }
